@@ -6,9 +6,10 @@ This is a Machine Learning model which predicts the price of the car based on th
 ![cardekho dataset on Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 
 '''
-This dataset contains information about used cars listed on ![web](www.cardekho.com)
-This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
-The columns in the given dataset are as follows:
+    
+    This dataset contains information about used cars listed on ![web](www.cardekho.com)
+    This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
+    The columns in the given dataset are as follows:
 
     name
     year
